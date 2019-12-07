@@ -1,0 +1,16 @@
+// Dependencies
+@import './base/_global.scss';
+
+
+
+// Pages
+@import './pages/WorstMovers.scss';
+@import './pages/BestMovers.scss';
+@import './pages/Portfolio.scss';
+// Components
+@import './components/Dashboard/Dashboard.scss';
+@import './components/Dashboard/DashboardGraphs.scss';
+@import './components/Dashboard/DashboardMain.scss';
+@import './components/Dashboard/DashboardNews.scss';
+@import './components/Dashboard/DashboardValue.scss';
+@import './components/Sidebar/Sidebar.scss';
